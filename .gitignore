@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.sqlite*
+data/
+.venv/
+.env
+telemetry.csv
+.pio/
+.vscode/c_cpp_properties.json
+.vscode/launch.json
