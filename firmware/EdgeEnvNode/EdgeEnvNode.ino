@@ -12,7 +12,7 @@
 #include "Config.h"
 #include "Logic.h"
 #include "RuntimeTypes.h"
-#include <nhietdo_doam_inferencing.h>
+//#include <nhietdo_doam_inferencing.h>
 #if ENABLE_EDGE_IMPULSE
 #include <nhietdo_doam_inferencing.h>
 static_assert(EI_CLASSIFIER_RAW_SAMPLES_PER_FRAME == 2, "Expected temperature + humidity");
